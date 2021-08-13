@@ -17,6 +17,7 @@ StartMessage = '''
         Hello! How can I help you today?
 
         Use:
+        honestly testing git on new version of windows
         ..test... mode... this bot.. is useless.... for now..
         
             /start  - To display this message
