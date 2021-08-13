@@ -17,6 +17,8 @@ StartMessage = '''
         Hello! How can I help you today?
 
         Use:
+        ..test... mode... this bot.. is useless.... for now..
+        
             /start  - To display this message
             /artist - To get my favorite artist
             /zoro ?
